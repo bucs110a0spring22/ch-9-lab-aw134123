@@ -7,18 +7,18 @@
 Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ Tests a rectangle class with x,y, height, width parameters and then tests if the surface class that makes the rectangle an object works.  
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: < 2 >
 
-Grace days remaining: < # >/5
+Grace days remaining: < 2 >/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ none
 
 ## REFERENCES:
- < List any outside resources used >
+ 
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ 
